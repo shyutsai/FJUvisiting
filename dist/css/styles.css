@@ -15,7 +15,7 @@
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
-  --red: #dc3545;
+  --red: #5f4649;
   --orange: #A67F78;
   --yellow: #ffc107;
   --green: #28a745;
@@ -159,11 +159,7 @@ sup {
 }
 
 a {
-<<<<<<< HEAD
   color: #A16B47;
-=======
-  color: #A67F78;
->>>>>>> 58a3fcc296a13381cf219941f8de44662050c116
   text-decoration: none;
   background-color: transparent;
 }
